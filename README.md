@@ -1,6 +1,6 @@
 ### Hi there 👋
  
- im jaximus downing (definetely my real name 👀) i'm a dotnet developer looking for any project i can get my hands on.
+ i'm Jaximus Downing (definetely my real name 👀) i'm a dotnet developer looking for any project i can get my hands on.
  i use c# on a daily basis i make video games with unity and i make discord bot
 
 - 🔭 I’m currently working on several discord bots
