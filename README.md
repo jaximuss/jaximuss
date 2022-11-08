@@ -14,3 +14,13 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=jaximuss&count_private=true&title_color=00eae4&bg_color=000000&text_color=dfdfdf"></p>
 
+
+### :hammer_and_wrench: Preferred Languages and Frameworks:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="csharp" alt="c#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="dot-net" alt="dot-net" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
+
