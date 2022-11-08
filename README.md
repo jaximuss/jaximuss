@@ -10,5 +10,7 @@
 - 📫 How to reach me ? : Chidiumeo@gmail.com or jaximus downing#8080 on discord
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=notghettolenny&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <p><img src="https://github-readme-stats.vercel.app/api?username=jaximuss&count_private=true&title_color=00eae4&bg_color=000000&text_color=dfdfdf"></p>
 
