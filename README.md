@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate on a few indie games
 - 🤔 I’m looking for help with asp.net
 - 📫 How to reach me ? : Chidiumeo@gmail.com or jaximus downing#8080 on discord
+- 📝 My Portfolio : https://jaximuss.github.io/Chidiume/
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaximuss&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
